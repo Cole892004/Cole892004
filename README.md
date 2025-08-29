@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cole892004.
-- 👀 I’m interested in software development and computer science in general.
-- 🌱 I’m currently learning Java in AP Computer Science A.
+- 👀 I’m interested in computer graphics and frontend development.
+- 🌱 I’m currently learning quantum computing and computer graphics at Penn State University.
 - 💞️ I’m looking to collaborate on larger projects.
 - 📫 How to reach me Phone: 951-987-2028 Email: csj892004@gmail.com.
 
